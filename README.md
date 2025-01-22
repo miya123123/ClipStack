@@ -1,5 +1,7 @@
 # ClipStack
+
 シンプルなブラウザ版クリップボード管理ツールです。
+
 ![スクリーンショット](https://github.com/miya123123/ClipStack/blob/main/screenshot.png)
 
 ## 特徴
