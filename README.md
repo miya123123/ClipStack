@@ -36,4 +36,6 @@ IssueやPull Requestを歓迎します。
 
 ## 使用AI技術
 DeepSeek-R1をコード生成に使用しました。
+
+DeepSeek-R1:
 [DeepSeek-R1 Release | DeepSeek API Docs](https://api-docs.deepseek.com/news/news250120)
