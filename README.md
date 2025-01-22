@@ -14,7 +14,7 @@
 
 ## 📜 ライセンス
 - MIT License 
-- [LICENSE.txt](https://github.com/miya123123/ClipStack/blob/main/LICENSE) をご覧ください。
+- [LICENSE.txt](https://github.com/miya123123/ClipStack/blob/main/LICENSE.txt) をご覧ください。
 
 ## 🚀 ライブデモ
 [GitHub Pages](https://miya123123.github.io/ClipStack/)
